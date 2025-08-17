@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "33274093810-a6bi2u2cjc579tt8ggsrsh2efuo6a9b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodwill",
+            "certificate_hash": "ddf3d8528d74a72f87330543583438d243568bb1"
+          }
+        },
+        {
           "client_id": "33274093810-t80irlnfabbk6quus7o1iailsri03sqc.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "33274093810-t80irlnfabbk6quus7o1iailsri03sqc.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "33274093810-a92q0st8t4knnpr42dkl1quin8c9nctc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goodwill"
+              }
             }
           ]
         }
