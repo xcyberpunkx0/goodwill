@@ -9,11 +9,29 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  dio:
+  flutter_bloc:
+  get_it:
+  firebase_core:
+  firebase_auth:
+  json_annotation:
+  equatable:
+  google_sign_in:
+  flutter_svg:
+  go_router:
+  pretty_dio_logger:
+  cached_network_image:
+  intl:
+  flutter_stripe:
+  dots_indicator:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  json_serializable:
+  build_runner:
 
 flutter:
   uses-material-design: true

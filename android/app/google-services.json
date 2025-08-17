@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33274093810",
+    "project_id": "goodwill-bb34b",
+    "storage_bucket": "goodwill-bb34b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33274093810:android:46bf74d78cff9727b1706b",
+        "android_client_info": {
+          "package_name": "com.example.goodwill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33274093810-t80irlnfabbk6quus7o1iailsri03sqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qGjRLDodpCvDro3cnyCMHwtPq2y7k-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33274093810-t80irlnfabbk6quus7o1iailsri03sqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
